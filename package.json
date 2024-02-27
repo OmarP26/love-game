@@ -1,0 +1,20 @@
+{
+  "name": "love-game",
+  "version": "1.0.0",
+  "description": "A small Valentines game for my gf",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "game",
+    "love",
+    "electron"
+  ],
+  "author": "Omar Perez",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^29.0.1"
+  }
+}
